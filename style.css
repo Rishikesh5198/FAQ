@@ -1,0 +1,46 @@
+.question
+{
+    display: flex;
+    justify-content: center;
+}
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: cadetblue;
+}
+.answer
+{
+    display:none;
+    justify-content: center;
+}
+
+.minusign1
+{
+    display: none;
+}
+.art
+{
+    background: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px #999;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+.questionbutton
+{
+   padding-left: 10px;
+   margin-left: 10px;
+   border-style: none;
+   background-color: #f4f4f4;
+   font-size: large;
+   font-weight: bolder;
+}
+.plusign1
+{
+    display:block;
+}
+body{
+    background-color: beige;
+}
+
